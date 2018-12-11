@@ -1,0 +1,10 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityLayer.dll.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityLayer.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityFramework.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityFramework.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\obj\Debug\EntityLayer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,11 @@
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\NTierWithEF\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
